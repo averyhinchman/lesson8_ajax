@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 10, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Avery Hinchman)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we used AJAX, JSON, and API to create a Movie Connection Application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://averyhinchman.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to create an API Key.)
+2. (The use of AJAX to complete an application.)
+3. (The use of JSON to complete an application.)
+4. (The use of API to complete an application.)
+5. (How to create results.)
